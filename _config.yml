@@ -1,1 +1,18 @@
-theme: jekyll-theme-cayman
+# Setup
+title:        Biu for Intellij IDEA by avenwu
+name:		  Biu
+tagline:      An IntelliJ IDEA plugin which makes PNG compression much more convienient
+baseurl:      ""
+paginate:     1
+
+# About/contact
+author:
+  name:       Aven Wu
+  url:        http://avenwu.net
+
+# Gems
+gems:
+  - jekyll-paginate
+
+#Others
+markdown: kramdown
