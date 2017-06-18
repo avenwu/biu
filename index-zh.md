@@ -16,7 +16,7 @@ Biu是一款为IntelliJ IDEA设计的图片压缩插件，同时适用于基于I
 * 支持快捷键操作
 * 支持压缩模式选择：[pngquant](https://pngquant.org/) 和 [tinypng](https://tinypng.com/)
 
-*目前Biu仅适用与macOS，Win和 Uniux暂未适配*
+目前Biu支持如下64位操作系统：macOS，Win和Ubuntu
 
 ## 安装
 

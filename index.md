@@ -16,7 +16,7 @@ All supported functions are listed bellow:
 * Keyboard shortcuts available
 * Choose compress mode: [pngquant](https://pngquant.org/) or [tinypng](https://tinypng.com/)
 
-*Attention: Biu can be used under macOS, but Win/Unix-like systems are not supported yet*
+Biu can be used under macOS, win and ubuntu;
 
 ## Installation
 
