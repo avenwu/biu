@@ -16,14 +16,12 @@ All supported functions are listed bellow:
 * Keyboard shortcuts available
 * Choose compress mode: [pngquant](https://pngquant.org/) or [tinypng](https://tinypng.com/)
 
-Biu can be used under macOS, win and ubuntu;
+Biu can be used under macOS, Win and Ubuntu;
 
 ## Installation
 
 * Install through local disk: Setting/Plugins/Install plugin from disk
-* Install through maven: Setting/Plugins/Browse repositories，search by Biu[^1]
-
-[^1]: PS: We've not upload to maven yet
+* Install through maven: Setting/Plugins/Browse repositories，search by Biu
 
 ![installation](assets/install-type.png)
 

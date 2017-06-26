@@ -21,9 +21,7 @@ Biu是一款为IntelliJ IDEA设计的图片压缩插件，同时适用于基于I
 ## 安装
 
 * 通过本地磁盘安装：设置/插件/从磁盘安装
-* 通过maven仓库安装：设置/插件/浏览Maven仓库, 检索关键词Biu[^1]
-
-[^1]: 注：暂未上传Maven仓库
+* 通过maven仓库安装：设置/插件/浏览Maven仓库, 检索关键词Biu
 
 ![安装示意](assets/install-type.png)
 
