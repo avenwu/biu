@@ -2,7 +2,7 @@
 title:        Biu for Intellij IDEA by avenwu
 name:		  Biu
 tagline:      An IntelliJ IDEA plugin which makes PNG compression much more convienient
-baseurl:      ""
+#baseurl:      ""
 paginate:     1
 
 # About/contact
